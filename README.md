@@ -2,6 +2,10 @@
 - 📫 you can reach me through:
   - my personal email: christianmalaay03@gmail.com
   - my student email: amielchristian.malaay.cics@ust.edu.ph
+- 🌱 i’m currently learning:
+  - java
+  - javascript
+  - php
 
 <!--
 - 👀 I’m interested in ...
