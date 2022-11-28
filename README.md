@@ -1,7 +1,7 @@
 - 👋 hi, I’m @amielchristian
 - 📫 you can reach me through:
-  - email: christianmalaay03@gmail.com || amielchristian.malaay.cics@ust.edu.ph
-  - twitter: @amiel_mly
+  - my personal email: christianmalaay03@gmail.com
+  - my student email: amielchristian.malaay.cics@ust.edu.ph
 
 <!--
 - 👀 I’m interested in ...
