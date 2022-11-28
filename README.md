@@ -4,8 +4,8 @@
   - my student email: amielchristian.malaay.cics@ust.edu.ph
 - 🌱 i’m currently learning:
   - java
-  - javascript
   - php
+  - javascript
 
 <!--
 - 👀 I’m interested in ...
