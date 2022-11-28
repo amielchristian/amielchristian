@@ -1,4 +1,4 @@
-- 👋 hi, I’m @amielchristian
+👋 hi, I’m @amielchristian
 - 📫 you can reach me through:
   - my personal email: christianmalaay03@gmail.com
   - my student email: amielchristian.malaay.cics@ust.edu.ph
