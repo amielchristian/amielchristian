@@ -9,6 +9,7 @@
   - java
   - php
   - javascript
+  - python
 
 <!--
 - 👀 I’m interested in ...
