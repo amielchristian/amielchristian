@@ -1,9 +1,10 @@
-👋 hi, I’m @amielchristian
+👋 hi, I’m Amiel Christian
 
 📫 you can reach me through:
   - my personal email: christianmalaay03@gmail.com
   - my student email: amielchristian.malaay.cics@ust.edu.ph
 
+<--
 
 🌱 i’m currently learning:
   - java
@@ -11,7 +12,7 @@
   - javascript
   - python
 
-<!--
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
