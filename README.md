@@ -1,14 +1,8 @@
-👋 hi, I’m Amiel Christian
+👋 Hi, I’m Amiel Christian
 
-📫 you can reach me through:
-  - my personal email: christianmalaay03@gmail.com
+📫 You can reach me through:
+  - my personal email: amiel.malaay@gmail.com
   - my student email: amielchristian.malaay.cics@ust.edu.ph
-
-🌱 i’m currently learning:
-  - java
-  - php
-  - javascript
-  - python
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amielchristian&show_icons=true&count_private=true&hide_border=true" align="center" /></div
